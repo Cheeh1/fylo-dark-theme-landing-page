@@ -428,7 +428,7 @@ li a:hover {
     .navbar {
         margin-left: -20px;
     }
-
+    
     .navbar li a {
         font-size: 13px;
         padding: 10px 2px;
@@ -533,7 +533,7 @@ li a:hover {
         margin-top: 650px;
         margin-left: 18px;
         width: 90%;
-        height: 50%;
+        height: 40%;
     }
 
     .signup-header {
@@ -561,6 +561,9 @@ li a:hover {
 
     .third-bgd {
         min-height: 130vh;
+        /* display: flex;
+        flex-flow: column;
+        width: 150%; */
     }
 
     .flex-address {
