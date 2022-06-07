@@ -530,10 +530,14 @@ li a:hover {
     }
 
     .signup {
-        margin-top: 750px;
+        margin-top: 700px;
         margin-left: 18px;
         width: 90%;
+<<<<<<< HEAD
         height: 40%;
+=======
+        height: 35%;
+>>>>>>> parent of a0762e5 (almost to final)
     }
 
     .signup-header {
