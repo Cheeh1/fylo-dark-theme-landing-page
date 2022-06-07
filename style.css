@@ -411,14 +411,14 @@ li a:hover {
 }
 
 
-@media screen and (max-width: 400px) {
+@media screen and (max-width: 375px) {
     .first-bgd {
        width: 100%;
     }
 
     .fylo {
-        width: 30%;
-        height: 15%;
+        width: 55%;
+        height: 20%;
     }
 
     .header {
@@ -542,7 +542,7 @@ li a:hover {
     }
 
     .signup-textbar {
-        margin-top: 30px;
+        margin-top: 35px;
         width: 70%;
         padding: 10px 15px;
     }
